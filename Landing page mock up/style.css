@@ -1,0 +1,23 @@
+.container {
+  @media screen and (max-width: 780px);
+}
+.jumbotron {
+  background-size: 780px;
+  background-color: #6d1eff9f;
+  padding: 20%;
+  margin: 10%;
+}
+.section {
+  background-image: url(gallery/Background.jpg);
+  background-size: cover;
+  height: 650px;
+  width: auto;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+footer {
+  background-color: #2d1eff5e;
+}
